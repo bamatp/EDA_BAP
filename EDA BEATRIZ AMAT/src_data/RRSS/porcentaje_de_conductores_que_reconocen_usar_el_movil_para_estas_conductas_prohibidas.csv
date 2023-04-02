@@ -1,0 +1,29 @@
+﻿"Año";"Periodo";"Parámetro";"2019";"2014"
+"2019";"Año";"GPS";"25";"7,7"
+"2019";"Año";"Hablar sin manos libres";"14";"12"
+"2019";"Año";"Hacer fotos o vídeos";"12";"1"
+"2019";"Año";"Redes sociales";"12";"0,5"
+"2019";"Año";"WhatsApp";"19";"14,4"
+;;;
+;;;
+"Métrica":"2019"
+"Fuente":"BP, Castrol y el RACE"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"2014"
+"Fuente":"BP, Castrol y el RACE"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/porcentaje-conductores-reconocen-usar-movil-conductas-prohibidas/d963b452-e8eb-4df8-8e00-b3652d4c81ed"
+"Titulo":"Porcentaje de conductores que reconocen usar el móvil para estas conductas prohibidas"
+"Subtitulo":""

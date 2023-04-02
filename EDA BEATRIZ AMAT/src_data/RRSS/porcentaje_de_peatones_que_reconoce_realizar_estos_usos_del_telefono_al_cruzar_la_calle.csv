@@ -1,0 +1,31 @@
+﻿"Año";"Periodo";"Parámetro";"Realiza actividad";"Con asiduidad"
+"2019";"Año";"Email";"51";"24"
+"2019";"Año";"Escuchar música";"57";"39"
+"2019";"Año";"GPS";"54";"23"
+"2019";"Año";"Hacer fotos y vídeos";"59";"31"
+"2019";"Año";"Llamar";"87";"63"
+"2019";"Año";"Redes Sociales";"54";"31"
+"2019";"Año";"WhatsApp";"76";"55"
+;;;
+;;;
+"Métrica":"Realiza actividad"
+"Fuente":"BP, Castrol y el RACE"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Con asiduidad"
+"Fuente":"BP, Castrol y el RACE"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/proporcion-peatones-reconoce-realizar-usos-telefono-cruzar-calle/59968d02-de7a-466e-818c-f798ad92dfa4"
+"Titulo":"Porcentaje de peatones que reconoce realizar estos usos del teléfono al cruzar la calle"
+"Subtitulo":""
